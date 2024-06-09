@@ -1,0 +1,1358 @@
+.checkout-pembayaran-1-child,
+.checkout-pembayaran-1-inner,
+.checkout-pembayaran-1-item {
+  width: 45px;
+  height: 45px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #f2789f;
+  display: none;
+}
+
+.checkout-pembayaran-1-inner,
+.checkout-pembayaran-1-item {
+  background-color: #373134;
+}
+
+#qrcode {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.input-fields-labels1:hover .form-control {
+  display: block;
+}
+
+.input-fields-labels1:hover .form-control option {
+  cursor: pointer;
+}
+
+/* Optional styling for dropdown options */
+
+.form-control option:hover {
+  background-color: #f0f0f0;
+}
+
+.mentoring2 {
+  color: #f2789f;
+}
+
+.pembayaran-online-mentoring-container2 {
+  margin: 0;
+  width: 100%;
+  position: relative;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+
+.container3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+
+.frame-child30 {
+  height: 45px;
+  width: 45px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #f2789f;
+  z-index: 1;
+}
+
+.frame-child31 {
+  align-self: stretch;
+  height: 3px;
+  position: relative;
+  border-top: 3px solid #f2789f;
+  box-sizing: border-box;
+}
+
+.line-wrapper12 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 19px;
+  box-sizing: border-box;
+  min-width: 351px;
+  max-width: 100%;
+}
+
+.frame-child32 {
+  height: 45px;
+  width: 45px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #f2789f;
+  z-index: 1;
+}
+
+.frame-child33 {
+  align-self: stretch;
+  height: 3px;
+  position: relative;
+  border-top: 3px solid #373134;
+  box-sizing: border-box;
+}
+
+.line-wrapper13 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 19px;
+  box-sizing: border-box;
+  min-width: 351px;
+  max-width: 100%;
+}
+
+.frame-child34 {
+  height: 45px;
+  width: 45px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #373134;
+  z-index: 1;
+}
+
+.container5,
+.ellipse-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+
+.ellipse-container {
+  flex: 1;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  row-gap: 20px;
+}
+
+.container5 {
+  width: 1241px;
+  align-items: flex-start;
+  padding: 0 13px;
+  box-sizing: border-box;
+}
+
+.paket2 {
+  align-self: stretch;
+  position: relative;
+}
+
+.package-container1 {
+  width: 86px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 19px 0 0;
+  box-sizing: border-box;
+}
+
+.profil2 {
+  margin-right: 15px;
+}
+
+.pembayaran2,
+.profil2 {
+  width: 67px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+
+.pembayaran2 {
+  width: 101px;
+  color: #373134;
+}
+
+.profile-container {
+  margin: 0;
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: 20px;
+  white-space: nowrap;
+  text-align: center;
+  font-size: 16px;
+  color: #f2789f;
+  font-family: Roboto;
+}
+
+.container4 {
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 15px;
+}
+
+.container1,
+.container2,
+.container4 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+
+.container2 {
+  width: 1256px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 19px;
+}
+
+.container1 {
+  width: 1582px;
+  flex-direction: row;
+  justify-content: center;
+  text-align: center;
+  font-size: 35px;
+  color: #000;
+  font-family: Kanit;
+}
+
+.bank-transfer5,
+.span2 {
+  white-space: pre-wrap;
+}
+
+.bank-transfer5 {
+  margin-bottom: 10px;
+}
+
+.span2 {
+  color: #8e8383;
+}
+
+.bank-transfer4 {
+  align-self: stretch;
+  position: relative;
+  white-space: nowrap;
+}
+
+.bank-transfer-frame {
+  width: 137px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+  box-sizing: border-box;
+  margin-top: 30px;
+}
+
+.menerima-dari-semua2 {
+  margin-top: 30px;
+  flex: 1;
+  position: relative;
+  background: linear-gradient(#8e8383, #8e8383), #000;
+  background-clip: text;
+  /* Standard property */
+  -webkit-background-clip: text;
+  /* Safari, Chrome (old) */
+  -moz-background-clip: text;
+  /* Firefox */
+  -webkit-text-fill-color: transparent;
+  white-space: pre-wrap;
+  display: inline-block;
+  min-width: 196px;
+}
+
+.frame-parent63 {
+  width: 540px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 101px;
+  max-width: 100%;
+}
+
+.selection-circle {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50%;
+  background-color: #f2789f;
+  border: 0 solid #000;
+  box-sizing: border-box;
+  width: 100%;
+  height: 100%;
+  mix-blend-mode: normal;
+}
+
+.selection-component {
+  width: 38px;
+  height: 38px;
+  position: relative;
+}
+
+.frame-parent62,
+.selection-component-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 0 0;
+}
+
+.frame-parent62 {
+  align-self: stretch;
+  border-radius: 20px;
+  border: 2px solid #000;
+  box-sizing: border-box;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 12px 35px 23px 35px;
+  /* Adjusted padding */
+  max-width: 100%;
+  gap: 20px;
+}
+
+.virtual-account2 {
+  align-self: stretch;
+  position: relative;
+}
+
+.virtual-account-frame {
+  width: 155px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+  box-sizing: border-box;
+  margin-top: 40px;
+}
+
+.menerima-dari-bank2 {
+  flex: 1;
+  position: relative;
+  background: linear-gradient(#8e8383, #8e8383), #000;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  white-space: pre-wrap;
+  display: inline-block;
+  min-width: 221px;
+  max-width: 100%;
+}
+
+.frame-parent65 {
+  width: 580px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 85px;
+  max-width: 100%;
+}
+
+.component-2-icon2 {
+  width: 38px;
+  height: 38px;
+  position: relative;
+  top: 50%;
+  /* Move the element 50% down from its original position */
+}
+
+.component-1-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 38px;
+  width: 38px;
+  border-radius: 50%;
+  /* Create a perfect circle */
+  overflow: hidden;
+  /* Ensure content does not overflow outside the circle */
+  margin-top: 15px;
+}
+
+.component-2-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 38px;
+  width: 38px;
+  border-radius: 50%;
+  /* Create a perfect circle */
+  overflow: hidden;
+  /* Ensure content does not overflow outside the circle */
+  margin-top: 32px;
+}
+
+.component-3-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 38px;
+  width: 38px;
+  border-radius: 50%;
+  /* Create a perfect circle */
+  overflow: hidden;
+  /* Ensure content does not overflow outside the circle */
+  margin-top: 15px;
+}
+
+/* Reset button styles */
+
+button {
+  border: none;
+  outline: none;
+  padding: 0;
+  background: none;
+  cursor: pointer;
+}
+
+/* Custom button styles */
+
+.CircleButton {
+  width: 38px;
+  height: 38px;
+  border-radius: 50%;
+  border: 2px solid #000;
+  /* Black outline */
+  background-color: transparent;
+  /* Transparent background to make it hollow */
+  transition: background-color 0.1s;
+  /* Add a smooth transition for color change */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Hover state */
+
+.CircleButton:hover {
+  background-color: #f2789f;
+  /* Light black background on hover */
+}
+
+/* Active state */
+
+.CircleButton:active,
+.CircleButton.active {
+  background-color: #f2789f;
+  /* Color when active (clicked) */
+  border: 2px solid #000;
+  /* Black outline */
+}
+
+.frame-parent64 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 0 0;
+}
+
+.frame-parent64 {
+  align-self: stretch;
+  border-radius: 20px;
+  border: 2px solid #000;
+  box-sizing: border-box;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 12px 35px 23px 35px;
+  /* Adjusted padding */
+  max-width: 100%;
+  gap: 20px;
+}
+
+.e-wallet2 {
+  align-self: stretch;
+  position: relative;
+}
+
+.e-wallet-frame {
+  width: 137px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+  box-sizing: border-box;
+  margin-top: 20px;
+}
+
+button[type="button"].disabled {
+  pointer-events: none;
+  background-color: transparent;
+  /* Optional: Change text color for visibility */
+}
+
+.disabled {
+  background-color: transparent;
+  pointer-events: none;
+}
+
+.saved2,
+.saved3 {
+  background-color: transparent;
+}
+
+.saved2.enabled,
+.saved3.enabled {
+  background-color: #2f2f2f;
+  color: #fff;
+}
+
+.gopay-shopee-pay2 {
+  margin-top: 5px;
+  flex: 1;
+  top: 15px;
+  position: relative;
+  background: linear-gradient(#8e8383, #8e8383), #000;
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  white-space: pre-wrap;
+  display: inline-block;
+  min-width: 196px;
+}
+
+.frame-parent67 {
+  width: 561px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 122px;
+  max-width: 100%;
+}
+
+.component-3-icon2 {
+  width: 50px;
+  /* Adjust size as needed */
+  height: 50px;
+  /* Adjust size as needed */
+  cursor: pointer;
+  transition: filter 0.3s ease;
+  /* Add a smooth transition for the color change */
+}
+
+.component-3-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 0 0;
+}
+
+.bank-options,
+.frame-parent66 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+
+.frame-parent66 {
+  align-self: stretch;
+  border-radius: 20px;
+  border: 2px solid #000;
+  box-sizing: border-box;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 12px 35px 23px 35px;
+  /* Adjusted padding */
+  gap: 20px;
+}
+
+.bank-options {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 107px;
+  min-width: 631px;
+}
+
+.subtotal2,
+.total2,
+.voice-call2 {
+  position: relative;
+  display: inline-block;
+}
+
+.voice-call2 {
+  width: 153px;
+}
+
+.subtotal2,
+.total2 {
+  height: 24px;
+  flex-shrink: 0;
+}
+
+.subtotal2 {
+  align-self: stretch;
+}
+
+.total2 {
+  width: 62px;
+  font-weight: 600;
+}
+
+.subtotal-total-labels {
+  width: 91px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7px;
+}
+
+.rp-2000004,
+.rp-2000005 {
+  align-self: stretch;
+  height: 24px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+
+.rp-2000005 {
+  font-weight: 600;
+}
+
+.subtotal-total-labels1 {
+  width: 111px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 7px;
+}
+
+.subtotal-total-labels-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+
+.subtotal-total-container,
+.voice-call-container {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+
+.subtotal-total-container {
+  flex-direction: row;
+  padding: 0 0 0 32px;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+
+.voice-call-container {
+  flex-direction: column;
+  gap: 24px;
+}
+
+.promo-code2 {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  font-family: Roboto;
+  font-size: 16px;
+  background-color: transparent;
+  height: 20px;
+  flex: 1;
+  position: relative;
+  color: rgba(242, 120, 159, 0.71);
+  text-align: left;
+  display: inline-block;
+  min-width: 132px;
+  padding: 0;
+}
+
+.e-wallet-details2 {
+  width: 100%;
+  border: 0;
+  outline: 0;
+  font-family: Roboto;
+  font-size: 16px;
+  background-color: transparent;
+  height: 20px;
+  flex: 1;
+  position: relative;
+  color: rgba(242, 120, 159, 0.71);
+  text-align: left;
+  display: inline-block;
+  min-width: 132px;
+  padding: 0;
+}
+
+.input-fields-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.input-fields-container {
+  flex: 1;
+  flex-direction: column;
+  gap: 21px;
+  min-width: 172px;
+}
+
+.frame-child35,
+.gunakan2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.gunakan2 {
+  top: 25px;
+  left: 15px;
+  font-size: 16px;
+  font-family: Roboto;
+  color: #fff;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 112px;
+  height: 20px;
+  z-index: 1;
+}
+
+.frame-child36,
+.saved2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.saved2 {
+  top: 20px;
+  left: 13px;
+  font-size: 16px;
+  font-family: Roboto;
+  color: #fff;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 112px;
+  height: 34px;
+  z-index: 1;
+}
+
+.frame-child37,
+.saved3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.saved3 {
+  top: 20px;
+  left: 13px;
+  font-size: 16px;
+  font-family: Roboto;
+  color: #fff;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 112px;
+  height: 34px;
+  z-index: 1;
+}
+
+.vector-parent5,
+.vector-parent6,
+.vector-parent7 {
+  background-color: #f2789f;
+  /* Or any desired background color */
+  padding: 0;
+  align-self: stretch;
+  height: 77.2px;
+  /* Ensure all boxes have the same height */
+  position: relative;
+  border: none;
+  /* Remove button border */
+  display: flex;
+  align-items: center;
+  /* Center content vertically */
+}
+
+.input-fields-labels,
+.input-fields-labels1,
+.input-fields-labels2 {
+  align-self: stretch;
+  border: 2px solid #f2789f;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  /* Center content vertically */
+  justify-content: flex-start;
+  padding: 12px 10px 12px 31px;
+  height: 50px;
+  /* Ensure all boxes have the same height */
+}
+
+/* General styling for container */
+
+.input-fields-labels1,
+.input-fields-labels2 {
+  margin-bottom: 10px;
+}
+
+/* Dropdown styling */
+
+.form-control {
+  width: 100%;
+  /* Full width */
+  max-width: 100%;
+  /* Prevents overflow */
+  padding: 10px;
+  /* Padding for better look */
+  border: 1px solid #ccc;
+  /* Border styling */
+  border-radius: 4px;
+  /* Rounded corners */
+  font-size: 16px;
+  /* Font size for readability */
+  box-sizing: border-box;
+  /* Ensures padding is included in the width */
+  appearance: none;
+  /* Removes default dropdown arrow */
+  background-color: #fff;
+  /* White background */
+  background-image: url("data:image/svg+xml;charset=US-ASCII,%3csvg xmlns%3d%22http%3a//www.w3.org/2000/svg%22 width%3d%2216%22 height%3d%2216%22 viewBox%3d%220 0 16 16%22%3e%3cpath fill%3d%22%23000%22 d%3d%22M4 6l4 4 4-4H4z%22/%3e%3c/svg%3e");
+  /* Custom dropdown arrow */
+  background-repeat: no-repeat;
+  /* Prevents repeating background image */
+  background-position: right 10px top 50%;
+  /* Positions the arrow */
+  background-size: 16px 16px;
+  /* Ensures the arrow has a consistent size */
+}
+
+.form-control option:checked {
+  background-color: #f2789f;
+  /* Background color when option is selected */
+  color: #333;
+  /* Text color */
+}
+
+/* Style all options in the dropdown */
+
+.form-control option {
+  background-color: #f2789f;
+  /* Background color of unselected options */
+  color: #333;
+  /* Text color */
+}
+
+/* Input field styling */
+
+.e-wallet-details3 {
+  width: 100%;
+  /* Full width */
+  padding: 10px;
+  /* Padding for better look */
+  border: 1px solid #ccc;
+  /* Border styling */
+  border-radius: 4px;
+  /* Rounded corners */
+  font-size: 16px;
+  /* Font size for readability */
+  box-sizing: border-box;
+  /* Ensures padding is included in the width */
+}
+
+/* Unified focus style for input and dropdown */
+
+.form-control:focus,
+.e-wallet-details3:focus {
+  border-color: #66afe9;
+  /* Border color on focus */
+  outline: none;
+  /* Removes default outline */
+  box-shadow: 0 0 8px rgba(102, 175, 233, 0.6);
+  /* Adds shadow on focus */
+}
+
+/* Ensure dropdown options are scrollable */
+
+.form-control option {
+  padding: 10px;
+  /* Padding for better readability */
+  font-size: 16px;
+  /* Font size for readability */
+}
+
+/* Dropdown menu styling */
+
+.form-control {
+  position: relative;
+  /* To position the dropdown menu */
+}
+
+.form-control::after {
+  content: "";
+  /* Custom arrow */
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  width: 10px;
+  height: 10px;
+  background-color: #f2789f;
+  background: url("data:image/svg+xml;charset=US-ASCII,%3csvg xmlns%3d%22http%3a//www.w3.org/2000/svg%22 width%3d%2216%22 height%3d%2216%22 viewBox%3d%220 0 16 16%22%3e%3cpath fill%3d%22%23000%22 d%3d%22M4 6l4 4 4-4H4z%22/%3e%3c/svg%3e")
+ no-repeat;
+  background-size: contain;
+  pointer-events: none;
+}
+
+.form-control {
+  max-height: 150px;
+  /* Set maximum height for the dropdown */
+  overflow-y: auto;
+  /* Enable vertical scrolling */
+}
+
+#bankNameDropdown {
+  display: block;
+  /* Ensures the dropdown is visible */
+  width: 100%;
+  /* Full width */
+  padding: 10px;
+  /* Padding for better look */
+  border: 1px solid #ccc;
+  /* Border styling */
+  border-radius: 4px;
+  /* Rounded corners */
+  font-size: 16px;
+  /* Font size for readability */
+  box-sizing: border-box;
+  /* Ensures padding is included in the width */
+  appearance: none;
+  /* Removes default dropdown arrow */
+  background-color: #fff;
+  /* White background */
+  background-image: url("data:image/svg+xml;charset=US-ASCII,%3csvg xmlns%3d%22http%3a//www.w3.org/2000/svg%22 width%3d%2216%22 height%3d%2216%22 viewBox%3d%220 0 16 16%22%3e%3cpath fill%3d%22%23000%22 d%3d%22M4 6l4 4 4-4H4z%22/%3e%3c/svg%3e");
+  /* Custom dropdown arrow */
+  background-repeat: no-repeat;
+  /* Prevents repeating background image */
+  background-position: right 10px top 50%;
+  /* Positions the arrow */
+}
+
+#bankNameDropdown:focus,
+.e-wallet-details3:focus {
+  border-color: #66afe9;
+  /* Border color on focus */
+  outline: none;
+  /* Removes default outline */
+  box-shadow: 0 0 8px rgba(102, 175, 233, 0.6);
+  /* Adds shadow on focus */
+}
+
+.container11,
+.promo-code-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.promo-code-container {
+  width: 141px;
+  flex-direction: column;
+  gap: 21px;
+  min-width: 141px;
+}
+
+.container11 {
+  margin: 0;
+  flex: 1;
+  flex-direction: row;
+  gap: 3px;
+  max-width: 100%;
+}
+
+.container10,
+.container9 {
+  box-sizing: border-box;
+  justify-content: flex-start;
+}
+
+.container10 {
+  width: 473px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 32px;
+  max-width: 100%;
+}
+
+.container9 {
+  align-self: stretch;
+  border-radius: 30px;
+  border: 1px solid #000;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 26px 45px 37px;
+  gap: 39px;
+}
+
+.container7,
+.container8,
+.container9 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+
+.container8 {
+  width: 592px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 15px 0 0;
+  box-sizing: border-box;
+  min-width: 592px;
+}
+
+.container7 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  gap: 69px;
+}
+
+.cancel-order-container-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.check-out2,
+.container-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.end-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 20px;
+  /* Adjust margin as needed */
+  width: 100%;
+  /* Make the end container take up the full width of its parent */
+}
+
+.cancel-order-container,
+.checkout-container {
+  display: flex;
+  align-items: center;
+}
+
+.container-cancel-order,
+.container-checkout {
+  background-color: #f2789f;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  width: 225px;
+  /* Set width for consistency */
+  height: 64px;
+  /* Set height for consistency */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.qris-frame {
+  margin-top: 20px;
+}
+
+.cancel-order-text,
+.checkout-text {
+  color: #fff;
+  margin: 0;
+  font-size: inherit;
+  line-height: 38px;
+  font-weight: 600;
+  font-family: Kanit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+
+.container13 {
+  margin-top: 30px;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+
+.checkout-pembayaran-1,
+.container12,
+.container6 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+
+.container12 {
+  width: 1470px;
+  flex-direction: row;
+  padding: 0 5px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 30px;
+  color: #fff;
+  font-family: Kanit;
+}
+
+.checkout-pembayaran-1,
+.container6 {
+  flex-direction: column;
+}
+
+.container6 {
+  align-self: stretch;
+  gap: 10px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 20px;
+  color: #000;
+  font-family: Roboto;
+}
+
+.checkout-pembayaran-1 {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  padding: 49px 57px 78px 107px;
+  box-sizing: border-box;
+  gap: 69px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+
+@media screen and (max-width: 1500px) {
+  .container8 {
+    flex: 1;
+  }
+
+  .container7 {
+    flex-wrap: wrap;
+  }
+}
+
+@media screen and (max-width: 1200px) {
+  .bank-options {
+    gap: 53px;
+    min-width: 100%;
+  }
+
+  .checkout-pembayaran-1 {
+    gap: 34px;
+    padding-left: 53px;
+    padding-right: 28px;
+    box-sizing: border-box;
+  }
+}
+
+@media screen and (max-width: 825px) {
+  .pembayaran-online-mentoring-container2 {
+    font-size: 28px;
+  }
+
+  .line-wrapper12,
+  .line-wrapper13 {
+    min-width: 100%;
+  }
+
+  .frame-parent63 {
+    flex-wrap: wrap;
+    gap: 50px;
+  }
+
+  .frame-parent62 {
+    flex-wrap: wrap;
+  }
+
+  .frame-parent65 {
+    flex-wrap: wrap;
+    gap: 42px;
+  }
+
+  .frame-parent64 {
+    flex-wrap: wrap;
+  }
+
+  .frame-parent67 {
+    flex-wrap: wrap;
+    gap: 61px;
+  }
+
+  .frame-parent66 {
+    flex-wrap: wrap;
+  }
+
+  .bank-options {
+    gap: 27px;
+  }
+
+  .promo-code-container {
+    flex: 1;
+  }
+
+  .container11 {
+    flex-wrap: wrap;
+  }
+
+  .container9 {
+    gap: 19px;
+    padding-left: 22px;
+    padding-right: 22px;
+    box-sizing: border-box;
+  }
+
+  .container8 {
+    min-width: 100%;
+  }
+
+  .container7 {
+    gap: 34px;
+  }
+
+  .cancel-order2,
+  .check-out2 {
+    font-size: 12px;
+    line-height: 30px;
+  }
+
+  .check-out2 {
+    line-height: 27px;
+  }
+
+  .container13 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  .pembayaran-online-mentoring-container2 {
+    font-size: 21px;
+  }
+
+  .profile-container {
+    flex-wrap: wrap;
+  }
+
+  .bank-transfer4,
+  .menerima-dari-semua2 {
+    font-size: 16px;
+  }
+
+  .frame-parent63 {
+    gap: 25px;
+  }
+
+  .menerima-dari-bank2,
+  .virtual-account2 {
+    font-size: 16px;
+  }
+
+  .frame-parent65 {
+    gap: 21px;
+  }
+
+  .e-wallet2,
+  .gopay-shopee-pay2 {
+    font-size: 16px;
+  }
+
+  .frame-parent67 {
+    gap: 30px;
+  }
+
+  .voice-call2 {
+    font-size: 16px;
+  }
+
+  .subtotal-total-labels-parent {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .container9 {
+    padding-top: 20px;
+    padding-bottom: 24px;
+    box-sizing: border-box;
+  }
+
+  .container7 {
+    gap: 17px;
+  }
+
+  .cancel-order2,
+  .check-out2 {
+    font-size: 18px;
+    line-height: 23px;
+  }
+
+  .check-out2 {
+    line-height: 20px;
+  }
+
+  .checkout-pembayaran-1 {
+    gap: 17px;
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+}

@@ -1,0 +1,182 @@
+.confirmation-page {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  height: 100vh;
+}
+
+.home-button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-family: var(--font-inter);
+  font-size: 16px;
+  font-weight: 600;
+  color: white;
+  background-color: var(--color-palevioletred-300);
+  border: none;
+  border-radius: var(--br-xl);
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+}
+
+.frame-div {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  background-color: #f2789f;
+  border-radius: 10px; /* Adjust the value for the desired curve */
+}
+
+
+.payment-heading {
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center;     /* Center vertically */
+  padding: 0 20px;
+  box-sizing: border-box;
+  width: 100%;
+}
+
+.pembayaran-online-mentoring-container {
+  margin: 0;
+  font-size: inherit;
+  font-weight: 600;
+  font-family: inherit;
+  display: inline-block;
+  white-space: nowrap;
+  text-align: center; /* Center text inside the container */
+}
+.payment-heading, .mentoring {
+  font-size: xx-large;
+}
+
+
+.mentoring {
+  color: #f2789f;
+}
+
+.container4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container5 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+  width: 100%;
+}
+
+.ellipse-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.frame-child30,
+.frame-child32,
+.frame-child34 {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  background-color: #f2789f;
+}
+
+.line-wrapper12,
+.line-wrapper13 {
+  flex-grow: 1;
+  height: 4px;
+  background-color: #f2789f;
+  margin: 0 10px;
+}
+
+.profile-container {
+  display: flex;
+  justify-content: space-between;
+  width: 140%;
+  margin-top: 10px;
+  margin-right: 10px;
+  font-size: 14px;
+}
+
+.package-container1,
+.profil2,
+.pembayaran2 {
+  flex: 1;
+  text-align: center;
+  display: flex;
+  justify-content: center; /* Center horizontally */
+  align-items: center; /* Center vertically */
+}
+
+.package-container1 {
+  padding-right: 10px;
+}
+
+.pembayaran2 {
+  padding-left: 10px;
+}
+
+.profil2 {
+  padding-left: 10px;
+}
+
+
+
+.thank-you-message {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+}
+
+.thank-you-for {
+  font-size: 20px;
+  font-weight: 600;
+  background: linear-gradient(#000, #000), #b94e8a;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+  width: 500px;
+  height: 50px;
+  line-height: 50px;
+  margin-top: 20px;
+}
+
+.thank-you-message-child {
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  max-width: 100%;
+  height: auto;
+}
+
+.home {
+  position: absolute;
+  top: 50rem;
+  left: 50%;
+  transform: translateX(-50%);
+  line-height: 38px;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 193px;
+  height: 50px;
+  z-index: 1;
+}
+
+.checkout-progress-bar {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 20px 0;
+}

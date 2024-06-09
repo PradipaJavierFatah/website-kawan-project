@@ -68,9 +68,9 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/datepicker.min.js"></script>
 </head>
 
-<body>
+<body class="bg-secondery">
     {{-- Daftar Akun Start --}}
-    <section id="daftarakun" class="pt-24 pb-0">
+    <section id="daftarakun" class="pt-24 pb-0 ">
         <div class="container mx-auto">
             <div class="w-full flex justify-center mb-2">
                 <img src="asset/login/Logo.png" alt="" width="200">
@@ -135,7 +135,7 @@
                 </div>
             </div>
         </div>
-        <div class="flex justify-center">
+        <div class="flex justify-center text-black font-medium">
             <h1>Sudah punya akun? <a href={{ route('login') }}><span class="cursor-pointer underline">Login disini</span></a></h1>
         </div>
     </section>
