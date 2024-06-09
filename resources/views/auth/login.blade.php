@@ -52,6 +52,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kawan - Login</title>
     @vite('resources/css/app.css')
     <link rel="icon" type="image/png" sizes="32x32" href="asset/faviconlogo.png">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -112,7 +113,7 @@
                     </form>
 
                     <div class="flex justify-center mt-16">
-                        <h1>Belum memiliki akun? <a href="daftarakun"><span class="cursor-pointer underline">Daftar disini</span></a></h1>
+                        <h1>Belum memiliki akun? <a href={{route('register')}}><span class="cursor-pointer underline">Daftar disini</span></a></h1>
                     </div>
                 </div>
             </div>
