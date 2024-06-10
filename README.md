@@ -1,6 +1,6 @@
 # Kawan
 
-This repository contains the code for the Oceanwell project, built with Laravel and styled using Tailwind CSS.
+This repository hosts the Kawan project, developed with Laravel and styled using Tailwind CSS.
 
 ## Table of Contents
 - [Prerequisites](#prerequisites)
