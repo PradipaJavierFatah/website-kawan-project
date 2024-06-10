@@ -39,7 +39,7 @@
 
             <div class="lg:flex gap-2 hidden">
                 <a href="dashboard" class="flex flex-row items-center">
-                    <span class="px-4 text-xl font-bold">Username</span>
+                    <span class="px-4 text-xl font-bold">Yanto</span>
                     <img src="asset/home/profile.png" alt="" class="h-12 w-12 rounded-full">
                 </a>
             </div>
@@ -147,21 +147,21 @@
                         <hr class="my-5">
                         <ul role="list" class="space-y-5 my-7">
                             <li class="flex items-center">
-                                <svg class="flex-shrink-0 w-4 h-4 text-red-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
+                                <svg class="flex-shrink-0 w-4 h-4 text-green-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
                                     <path d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5Zm3.707 8.207-4 4a1 1 0 0 1-1.414 0l-2-2a1 1 0 0 1 1.414-1.414L9 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414Z"/>
                                 </svg>
                                 <span class="text-base font-normal leading-tight text-gray-500 dark:text-gray-400 ms-3">1 Session per Month</span>
                             </li>
 
                             <li class="flex items-center">
-                                <svg class="flex-shrink-0 w-4 h-4 text-red-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
+                                <svg class="flex-shrink-0 w-4 h-4 text-green-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
                                     <path d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5Zm3.707 8.207-4 4a1 1 0 0 1-1.414 0l-2-2a1 1 0 0 1 1.414-1.414L9 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414Z"/>
                                 </svg>
                                 <span class="text-base font-normal leading-tight text-gray-500 dark:text-gray-400 ms-3">Access to Resoruces</span>
                             </li>
 
                             <li class="flex items-center">
-                                <svg class="flex-shrink-0 w-4 h-4 text-red-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
+                                <svg class="flex-shrink-0 w-4 h-4 text-green-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
                                     <path d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5Zm3.707 8.207-4 4a1 1 0 0 1-1.414 0l-2-2a1 1 0 0 1 1.414-1.414L9 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414Z"/>
                                 </svg>
                                 <span class="text-base font-normal leading-tight text-gray-500 dark:text-gray-400 ms-3">Email Support</span>
@@ -179,27 +179,27 @@
                             <span class="text-xl font-normal text-gray-300">/month</span>
                         </div>
                         <hr class="my-5">
-                        <a href="#Article" class="flex justify-center items-center px-3 py-3 text-md font-medium text-center text-black bg-primary rounded-lg hover:bg-blue-700 hover:text-white">
+                        <a href="plans-login" class="flex justify-center items-center px-3 py-3 text-md font-medium text-center text-black bg-primary rounded-lg hover:bg-blue-700 hover:text-white">
                             Purschase Now
                         </a>
                         <hr class="my-5">
                         <ul role="list" class="space-y-5 my-7">
                             <li class="flex items-center">
-                                <svg class="flex-shrink-0 w-4 h-4 text-red-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
+                                <svg class="flex-shrink-0 w-4 h-4 text-green-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
                                     <path d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5Zm3.707 8.207-4 4a1 1 0 0 1-1.414 0l-2-2a1 1 0 0 1 1.414-1.414L9 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414Z"/>
                                 </svg>
                                 <span class="text-base font-normal leading-tight text-gray-500 dark:text-gray-400 ms-3">2 Sessions per Month</span>
                             </li>
 
                             <li class="flex items-center">
-                                <svg class="flex-shrink-0 w-4 h-4 text-red-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
+                                <svg class="flex-shrink-0 w-4 h-4 text-green-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
                                     <path d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5Zm3.707 8.207-4 4a1 1 0 0 1-1.414 0l-2-2a1 1 0 0 1 1.414-1.414L9 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414Z"/>
                                 </svg>
                                 <span class="text-base font-normal leading-tight text-gray-500 dark:text-gray-400 ms-3">Priority Email Supports</span>
                             </li>
 
                             <li class="flex items-center">
-                                <svg class="flex-shrink-0 w-4 h-4 text-red-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
+                                <svg class="flex-shrink-0 w-4 h-4 text-green-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
                                     <path d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5Zm3.707 8.207-4 4a1 1 0 0 1-1.414 0l-2-2a1 1 0 0 1 1.414-1.414L9 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414Z"/>
                                 </svg>
                                 <span class="text-base font-normal leading-tight text-gray-500 dark:text-gray-400 ms-3">Progress Tracking</span>
@@ -217,27 +217,27 @@
                             <span class="text-xl font-normal text-gray-300">/month</span>
                         </div>
                         <hr class="my-5">
-                        <a href="#Article" class="flex justify-center items-center px-3 py-3 text-md font-medium text-center text-black bg-primary rounded-lg hover:bg-blue-700 hover:text-white">
+                        <a href="plans-login" class="flex justify-center items-center px-3 py-3 text-md font-medium text-center text-black bg-primary rounded-lg hover:bg-blue-700 hover:text-white">
                             Purschase Now
                         </a>
                         <hr class="my-5">
                         <ul role="list" class="space-y-5 my-7">
                             <li class="flex items-center">
-                                <svg class="flex-shrink-0 w-4 h-4 text-red-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
+                                <svg class="flex-shrink-0 w-4 h-4 text-green-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
                                     <path d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5Zm3.707 8.207-4 4a1 1 0 0 1-1.414 0l-2-2a1 1 0 0 1 1.414-1.414L9 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414Z"/>
                                 </svg>
                                 <span class="text-base font-normal leading-tight text-gray-500 dark:text-gray-400 ms-3">4 Sessions per Month</span>
                             </li>
 
                             <li class="flex items-center">
-                                <svg class="flex-shrink-0 w-4 h-4 text-red-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
+                                <svg class="flex-shrink-0 w-4 h-4 text-green-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
                                     <path d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5Zm3.707 8.207-4 4a1 1 0 0 1-1.414 0l-2-2a1 1 0 0 1 1.414-1.414L9 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414Z"/>
                                 </svg>
                                 <span class="text-base font-normal leading-tight text-gray-500 dark:text-gray-400 ms-3">Priority Support</span>
                             </li>
 
                             <li class="flex items-center">
-                                <svg class="flex-shrink-0 w-4 h-4 text-red-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
+                                <svg class="flex-shrink-0 w-4 h-4 text-green-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
                                     <path d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5Zm3.707 8.207-4 4a1 1 0 0 1-1.414 0l-2-2a1 1 0 0 1 1.414-1.414L9 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414Z"/>
                                 </svg>
                                 <span class="text-base font-normal leading-tight text-gray-500 dark:text-gray-400 ms-3">Personalized Plans</span>
@@ -255,27 +255,27 @@
                             <span class="text-xl font-normal text-gray-300">/month</span>
                         </div>
                         <hr class="my-5">
-                        <a href="#Article" class="flex justify-center items-center px-3 py-3 text-md font-medium text-center text-black bg-primary rounded-lg hover:bg-blue-700 hover:text-white">
+                        <a href="plans-login" class="flex justify-center items-center px-3 py-3 text-md font-medium text-center text-black bg-primary rounded-lg hover:bg-blue-700 hover:text-white">
                             Purschase Now
                         </a>
                         <hr class="my-5">
                         <ul role="list" class="space-y-5 my-7">
                             <li class="flex items-center">
-                                <svg class="flex-shrink-0 w-4 h-4 text-red-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
+                                <svg class="flex-shrink-0 w-4 h-4 text-green-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
                                     <path d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5Zm3.707 8.207-4 4a1 1 0 0 1-1.414 0l-2-2a1 1 0 0 1 1.414-1.414L9 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414Z"/>
                                 </svg>
                                 <span class="text-base font-normal leading-tight text-gray-500 dark:text-gray-400 ms-3">Unlimited Sessions</span>
                             </li>
 
                             <li class="flex items-center">
-                                <svg class="flex-shrink-0 w-4 h-4 text-red-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
+                                <svg class="flex-shrink-0 w-4 h-4 text-green-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
                                     <path d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5Zm3.707 8.207-4 4a1 1 0 0 1-1.414 0l-2-2a1 1 0 0 1 1.414-1.414L9 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414Z"/>
                                 </svg>
                                 <span class="text-base font-normal leading-tight text-gray-500 dark:text-gray-400 ms-3">24/7 Support</span>
                             </li>
 
                             <li class="flex items-center">
-                                <svg class="flex-shrink-0 w-4 h-4 text-red-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
+                                <svg class="flex-shrink-0 w-4 h-4 text-green-600" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20">
                                     <path d="M10 .5a9.5 9.5 0 1 0 9.5 9.5A9.51 9.51 0 0 0 10 .5Zm3.707 8.207-4 4a1 1 0 0 1-1.414 0l-2-2a1 1 0 0 1 1.414-1.414L9 10.586l3.293-3.293a1 1 0 0 1 1.414 1.414Z"/>
                                 </svg>
                                 <span class="text-base font-normal leading-tight text-gray-500 dark:text-gray-400 ms-3">Monthly Webinars</span>

@@ -38,7 +38,7 @@
 
             <div class="lg:flex gap-2 hidden">
                 <a href="dashboard" class="flex flex-row items-center">
-                    <span class="px-4 text-xl font-bold">Username</span>
+                    <span class="px-4 text-xl font-bold">Yanto</span>
                     <img src="asset/home/profile.png" alt="" class="h-12 w-12 rounded-full">
                 </a>
             </div>
