@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" class="scroll-smooth">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -29,16 +29,16 @@
                     <a href="home-after">Home</a>
                 </li>
                 <li class="text-xl font-bold cursor-pointer hover:underline">
-                    <a href="#">Services</a>
+                    <a href="#our_service">Services</a>
                 </li>
                 <li class="text-xl font-bold cursor-pointer hover:underline">
-                    <a href="plans-login">Payments</a>
+                    <a href="plans-login" target="_blank">Payments</a>
                 </li>
             </ul>
 
             <div class="lg:flex gap-2 hidden">
                 <a href="dashboard" class="flex flex-row items-center">
-                    <span class="px-4 text-xl font-bold">Username</span>
+                    <span class="px-4 text-xl font-bold">Yanto</span>
                     <img src="asset/home/profile.png" alt="" class="h-12 w-12 rounded-full">
                 </a>
             </div>
@@ -90,7 +90,7 @@
     {{-- Jumbotron End --}}
 
     {{-- Services Start --}}
-    <section>
+    <section id="our_service">
         <div class="text-2xl font-semibold text-center py-5">
             <span>OUR SERVICES</span>
         </div>
@@ -112,14 +112,14 @@
                 </div>
 
                 <div class="p-6">
-                    <a href="#" class="text-lg bg-gray-100 flex flex-col items-center py-2 px-4 w-40 rounded shadow-lg hover:bg-primary">
+                    <a href="personality-test" class="text-lg bg-gray-100 flex flex-col items-center py-2 px-4 w-40 rounded shadow-lg hover:bg-primary">
                         <img src="asset/home/image 15.png" alt="Services" class="w-16 h-16 mb-2">
                         MBTI Test
                     </a>
                 </div>
 
                 <div class="p-6">
-                    <a href="#" class="text-lg bg-gray-100 flex flex-col items-center py-2 px-4 w-40 rounded shadow-lg hover:bg-primary">
+                    <a href="stress-level-Check" class="text-lg bg-gray-100 flex flex-col items-center py-2 px-4 w-40 rounded shadow-lg hover:bg-primary">
                         <img src="asset/home/image 15.png" alt="Services" class="w-16 h-16 mb-2">
                         Stress Test
                     </a>

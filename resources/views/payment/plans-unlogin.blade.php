@@ -10,6 +10,7 @@
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Kanit:wght@200;600&display=swap" />
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;600&display=swap" />
 		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@600;700&display=swap" />
+		<link rel="icon" type="image/png" sizes="32x32" href="asset/faviconlogo.png">
 	</head>
 	<body>
 		<div class="plans-login">

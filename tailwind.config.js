@@ -21,8 +21,10 @@ export default {
                 primary: '#F2789F',
                 secondery: '#7BD3EA'
             },
+
         },
     },
 
     plugins: [forms],
 };
+

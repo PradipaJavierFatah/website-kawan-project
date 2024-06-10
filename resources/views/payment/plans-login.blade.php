@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Kanit:wght@200;600&display=swap" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;600&display=swap" />
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@600;700&display=swap" />
+    <link rel="icon" type="image/png" sizes="32x32" href="asset/faviconlogo.png">
 </head>
 
 <body>
@@ -158,22 +159,22 @@
     <script>
         function redirect1(event) {
             event.preventDefault();
-            window.location.href = "checkout-pembayaran-1.html";
+            window.location.href = "{{ url('checkout-pembayaran-1') }}";
         }
 
         function redirect2(event) {
             event.preventDefault();
-            window.location.href = "checkout-pembayaran-2.html";
+            window.location.href = "{{ url('checkout-pembayaran-2') }}";
         }
 
         function redirect3(event) {
             event.preventDefault();
-            window.location.href = "checkout-pembayaran-3.html";
+            window.location.href = "{{ url('checkout-pembayaran-3') }}";
         }
 
         function redirect4(event) {
             event.preventDefault();
-            window.location.href = "checkout-pembayaran-4.html";
+            window.location.href = "{{ url('checkout-pembayaran-4') }}";
         }
     </script>
 </body>

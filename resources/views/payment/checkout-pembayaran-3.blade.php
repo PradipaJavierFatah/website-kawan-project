@@ -5,6 +5,7 @@
     <meta name="viewport" content="initial-scale=1,width=device-width">
     <link rel="stylesheet"  href="{{asset('/css/payment/checkout-pembayaran-1.css')}}">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Kanit:wght@200;600&display=swap">
+    <link rel="icon" type="image/png" sizes="32x32" href="asset/faviconlogo.png">
   </head>
   <body>
     <div class="checkout-pembayaran-1">
@@ -215,13 +216,13 @@
       window.addEventListener('load', handleDropdownHover);
 
       function redirectToPlansLogin() {
-        window.location.href = "plans-login.html";
+        window.location.href = "{{ url('plans-login') }}";
       }
 
       function redirectToConfirmationPage() {
         const checkoutButton = document.querySelector('.container-checkout');
         if (!checkoutButton.classList.contains('disabled')) {
-          window.location.href = "confirmation-page.html";
+          window.location.href = "{{ url('confirmation-page') }}";
         }
       }
     </script>

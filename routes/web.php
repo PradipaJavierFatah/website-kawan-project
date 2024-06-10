@@ -67,17 +67,62 @@ Route::get('/plans-login', function () {
 Route::get('/plans-unlogin', function () {
     return view('/payment/plans-unlogin');
 });
-
-
 // Payment - End Sebastian
+
+// Stress Level - Start Abdi
+Route::get('/stress-level-Check', function () {
+    return view('/stress/stress-level-Check');
+});
+
+Route::get('/stress-level-result-high', function () {
+    return view('/stress/stress-level-result-high');
+});
+
+Route::get('/stress-level-result-low', function () {
+    return view('/stress/stress-level-result-low');
+});
+
+
+Route::get('/stress-level-result-medium', function () {
+    return view('/stress/stress-level-result-medium');
+});
+// Stress Level - End Abdi
+
+
+// Personality - Start Aufa
+Route::get('/personality-test', function () {
+    return view('/personality/Personality-Test');
+});
+
+
+Route::get('/ENFJ', function () {
+    return view('/personality/ENFJ');
+});
+
+Route::get('/ISFP', function () {
+    return view('/personality/ISFP');
+});
+
+Route::get('/ENTP', function () {
+    return view('/personality/ENTP');
+});
+
+Route::get('/ESFP', function () {
+    return view('/personality/ESFP');
+});
+
+Route::get('/INTP', function () {
+    return view('/personality/INTP');
+});
+// Personality - End Aufa
 
 
 Route::get('/dashboard', function () {
     return view('dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');
 
-Route::get('/tes', function () {
-    return view('tes');
+Route::get('/login', function () {
+    return view('login');
 })->middleware(['auth', 'verified'])->name('dashboard');
 
 Route::middleware('auth')->group(function () {

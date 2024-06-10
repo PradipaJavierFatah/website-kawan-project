@@ -103,14 +103,14 @@
         <div class="flex justify-center space-x-6 font-medium mb-8">
             <div class="grid md:grid-cols-4 sm:grid-cols-2">
                 <div class="p-6">
-                    <a href="mentoring" class="text-lg bg-gray-100 flex flex-col items-center py-2 px-4 w-40 rounded shadow-lg hover:bg-primary">
+                    <a href="#" class="text-lg bg-gray-100 flex flex-col items-center py-2 px-4 w-40 rounded shadow-lg hover:bg-primary">
                         <img src="asset/home/image 15.png" alt="Services" class="w-16 h-16 mb-2">
                         Mentoring
                     </a>
                 </div>
                 
                 <div class="p-6">
-                    <a href="consult" class="text-lg bg-gray-100 flex flex-col items-center py-2 px-4 w-40 rounded shadow-lg hover:bg-primary">
+                    <a href="#" class="text-lg bg-gray-100 flex flex-col items-center py-2 px-4 w-40 rounded shadow-lg hover:bg-primary">
                         <img src="asset/home/image 15.png" alt="Services" class="w-16 h-16 mb-2">
                         Consulting
                     </a>

@@ -22,6 +22,7 @@
       rel="stylesheet"
       href="https://fonts.googleapis.com/css2?family=Inter:wght@600;700&display=swap"
     />
+    <link rel="icon" type="image/png" sizes="32x32" href="asset/faviconlogo.png">
   </head>
   <body>
     <div class="confirmation-page">
@@ -69,7 +70,7 @@
         <div class="vector-parent" id="groupContainer">
           {{-- <button class="home-button" onclick="location.href='index.html'"><a href={{route('home-after')}}></a>Home</button> --}}
           {{-- <button class="home-button" onclick="location.href='index.html'">Home</button> --}}
-          <button class="home-button" onclick="location.href='{{ route('home-after') }}'">Home</button>
+          <button class="home-button" onclick="location.href='{{ url('home-after') }}'">Home</button>
         </div>
       </div>
     </div>
