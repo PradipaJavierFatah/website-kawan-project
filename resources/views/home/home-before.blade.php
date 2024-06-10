@@ -20,17 +20,17 @@
     <div id="navbar">
         <nav class="bg-primary p-4 flex justify-between items-center">
             <div>
-                <a href="home">
+                <a href="home-before">
                     <img src="asset/home/logo.png" alt="Kawan" class="h-12 w-auto">
                 </a>
             </div>
 
             <ul class="lg:flex gap-8 hidden">
                 <li class="text-xl font-bold cursor-pointer hover:underline">
-                    <a href="home">Home</a>
+                    <a href="home-before">Home</a>
                 </li>
                 <li class="text-xl font-bold cursor-pointer hover:underline">
-                    <a href="">Services</a>
+                    <a href="#">Services</a>
                 </li>
                 <li class="text-xl font-bold cursor-pointer hover:underline">
                     <a href="#">Payments</a>

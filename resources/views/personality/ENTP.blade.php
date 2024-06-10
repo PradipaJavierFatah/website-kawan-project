@@ -6,6 +6,7 @@
     <title>ENTP Personality</title>
     @vite('resources/css/app.css')
     <link rel="stylesheet" href="{{ asset ('css/personality/output.css') }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="asset/faviconlogo.png">
 
     <link href="output.css" rel="stylesheet" />
     <link rel="stylesheet" href="coba.css" />
@@ -47,20 +48,20 @@
           </div>
 
           <ul class="lg:flex gap-8 hidden">
-              <li class="text-xl font-bold cursor-pointer hover:underline">
-                  <a href="home-after">Home</a>
-              </li>
-              <li class="text-xl font-bold cursor-pointer hover:underline">
-                  <a href="#">Services</a>
-              </li>
-              <li class="text-xl font-bold cursor-pointer hover:underline">
-                  <a href="#">Payments</a>
-              </li>
-          </ul>
+            <li class="text-xl font-bold cursor-pointer hover:underline">
+                <a href="home-after">Home</a>
+            </li>
+            <li class="text-xl font-bold cursor-pointer hover:underline">
+                <a href="home-after">Services</a>
+            </li>
+            <li class="text-xl font-bold cursor-pointer hover:underline">
+                <a href="plans-login">Payments</a>
+            </li>
+        </ul>
 
           <div class="lg:flex gap-2 hidden">
               <a href="dashboard" class="flex flex-row items-center">
-                  <span class="px-4 text-xl font-bold">Username</span>
+                  <span class="px-4 text-xl font-bold">Yanto</span>
                   <img src="asset/home/profile.png" alt="" class="h-12 w-12 rounded-full">
               </a>
           </div>

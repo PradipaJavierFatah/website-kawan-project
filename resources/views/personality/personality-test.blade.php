@@ -117,16 +117,16 @@
                     <a href="home-after">Home</a>
                 </li>
                 <li class="text-xl font-bold cursor-pointer hover:underline">
-                    <a href="#">Services</a>
+                    <a href="home-after">Services</a>
                 </li>
                 <li class="text-xl font-bold cursor-pointer hover:underline">
-                    <a href="#">Payments</a>
+                    <a href="plans-login">Payments</a>
                 </li>
             </ul>
 
             <div class="lg:flex gap-2 hidden">
                 <a href="dashboard" class="flex flex-row items-center">
-                    <span class="px-4 text-xl font-bold">Username</span>
+                    <span class="px-4 text-xl font-bold">Yanto</span>
                     <img src="asset/home/profile.png" alt="" class="h-12 w-12 rounded-full">
                 </a>
             </div>

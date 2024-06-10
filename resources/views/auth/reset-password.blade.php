@@ -102,7 +102,7 @@
                 </div>
             </div>
             <div class="hidden lg:block w-1/2 flex items-center justify-center z-10">
-                <img src="/asset/login/gambarlogin.png" alt="Gambar Login" class="mx-auto pt-20" width="500">
+                <img src="/asset/login/forgetpass.png" alt="Gambar Login" class="mx-auto pt-18" width="500">
             </div>
         </div>
     </section>
