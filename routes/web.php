@@ -16,8 +16,18 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
+
 Route::get('/', function () {
     return view('welcome');
+});
+
+// Testing
+Route::get('/tes', function () {
+    return view('tes');
+});
+
+Route::get('/testing', function () {
+    return view('testing');
 });
 
 // Home - Start chris

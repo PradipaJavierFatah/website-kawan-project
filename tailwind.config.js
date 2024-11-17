@@ -8,18 +8,20 @@ export default {
         './storage/framework/views/*.php',
         './resources/views/**/*.blade.php',
         './resources/views/profile/tes.blade.php',
+        './resources/views/profile/testing.blade.php',
     ],
 
     theme: {
         extend: {
             fontFamily: {
-                Kanit: ['Kanit'], 
+                Kanit: ['Kanit'],
                 poppins: ['poppins'],
                 sans: ['Figtree', ...defaultTheme.fontFamily.sans],
             },
             colors: {
                 primary: '#F2789F',
-                secondery: '#7BD3EA'
+                secondery: '#7BD3EA',
+                thrid:'#19012C',
             },
 
         },

@@ -46,7 +46,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/2.3.0/datepicker.min.js"></script>
 </head>
 
-<body>    
+<body>
     {{-- Verifikasi Email Start --}}
     <section id="verifikasiemail" class="flex items-center justify-center min-h-screen">
         <div class="container mx-auto flex justify-center">
