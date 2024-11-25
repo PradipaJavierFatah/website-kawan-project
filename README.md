@@ -1,4 +1,4 @@
-# Kawan
+# Kawan Project Website
 
 This repository hosts the Kawan project, developed with Laravel and styled using Tailwind CSS.
 
